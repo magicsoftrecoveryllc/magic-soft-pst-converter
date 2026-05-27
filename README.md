@@ -17,7 +17,7 @@ Convert PST to MSG, EML, PDF without Outlook. Batch convert, preserve metadata, 
 
 **Trusted by IT Professionals, Legal Teams & Enterprises Worldwide**
 
-**© 2016 – 2026 [Magic Soft Recovery LLC](https://www.magicsoftrecovery.com/pst-converter/)**
+**© 2016 – 2026 [Magic Soft Recovery LLC]**
 
 <br />
 
