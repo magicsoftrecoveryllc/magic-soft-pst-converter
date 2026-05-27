@@ -189,6 +189,13 @@ Select your target format:
 ### Step 6 — Convert & Save
 Click **Convert**. The recovery engine processes your file, extracts all selected data, and saves perfectly organized output to your chosen destination folder — metadata intact, attachments included, folder structure preserved.
 
+## 🖥️ Software Screenshots
+
+![Magic Soft PST Converter - Main Interface](pst-converter1.png)
+
+![Magic Soft PST Converter - Tree View Preview](pst-converter2.png)
+
+![Magic Soft PST Converter - Conversion Complete](pst-converter3.png)
 ---
 
 ## 📊 What Gets Recovered & Preserved
